@@ -6,3 +6,10 @@ Expected speed on stock settings:
 gtx 1060 - 170 h/s
 gtx 1070 - 250 h/s
 Miner contain dev fee 2%.
+
+History:
+
+Version 0.0.4b
+- Completely new watchdog system.
+- Fixed a bug in the solver
+- Binary linux version compiled and tested in debian.
