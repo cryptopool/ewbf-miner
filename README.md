@@ -6,6 +6,10 @@ Miner contain dev fee 2%.
 
 History:
 
+Version 0.0.6b
+- For some older cards performance improvements up to 10%
+- Bug fixes
+
 Version 0.0.5b
 - Speed improvement up to 20%
 - Fixed stratum compatibility (works better with many pools)
