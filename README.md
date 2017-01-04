@@ -6,14 +6,19 @@ Miner contain dev fee 2%.
 
 History:
 
+Version 0.0.9b
+- Speed increase to 10%.
+- NOTE this version of miner not ready to release but nicehash guys force me to publish it. As a result it can be unstable.
+- For old cards compute capabilities 2.x 3.x try version 0.0.6b it can be faster.
+
 Version 0.0.8b
-"Cosmetic" optimizations of solver. Increased speed around 2%
-Reduced amount of rejected shares.
-New dynamic intensity system.
+- "Cosmetic" optimizations of solver. Increased speed around 2%
+- Reduced amount of rejected shares.
+- New dynamic intensity system.
 
 Version 0.0.7b
-Performance improvements. Old cards may be slower than with version 0.0.6b.
-I wanted release it as fast as possible. So new solver can be less stable.
+- Performance improvements. Old cards may be slower than with version 0.0.6b.
+- I wanted release it as fast as possible. So new solver can be less stable.
 
 Version 0.0.6b
 - For some older cards performance improvements up to 10%
