@@ -8,7 +8,7 @@ History:
 
 Version 0.0.9b
 - Speed increase to 10%.
-- NOTE this version of miner not ready to release but nicehash guys force me to publish it. As a result it can be unstable.
+- NOTE this version can be unstable.
 - For old cards compute capabilities 2.x 3.x try version 0.0.6b it can be faster.
 
 Version 0.0.8b
