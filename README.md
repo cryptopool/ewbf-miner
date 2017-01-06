@@ -6,6 +6,10 @@ Miner contain dev fee 2%.
 
 History:
 
+Version 0.1.0b
+Speed increase 2 - 5%
+For old cards compute capabilities 2.x 3.x try version 0.0.6b it can be faster.
+
 Version 0.0.9b
 - Speed increase to 10%.
 - NOTE this version can be unstable.
