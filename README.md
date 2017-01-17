@@ -6,6 +6,16 @@ Miner contain dev fee 2%.
 
 History:
 
+Version 0.2.0b
+Added three additional solvers.
+Added benchmark which test each solver on miner start and select fastest for each card.
+Added option --solver to manual solver selection.
+Added option --eexit to exit when the miner fails, it will allow you to use a script to automatically restart or perform other actions
+Added option --log logging to a file.
+Minor optimizations of solvers and working loop as a result 1 - 4% speed increase depends on card model.
+Thanks to new solvers now this version must work with old gpus better.
+For more info about new options see help -h for short explanation and examples.
+
 Version 0.1.0b
 Speed increase 2 - 5%
 For old cards compute capabilities 2.x 3.x try version 0.0.6b it can be faster.
