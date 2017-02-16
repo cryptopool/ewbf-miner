@@ -6,15 +6,24 @@ Miner contain dev fee 2%.
 
 History:
 
+Version 0.3.0b
+- Integrated nvml (NVIDIA Management Library) for temperature monitoring.
+- Added option --templimit for set max gpu temperature.
+- Added option --logfile for custom file name.
+- Added option --api simple json based api.
+- Option --solver now allow you to set solvers for different devices.
+- Optimizations up to 2% depends on cards.
+- See file Help.txt for more detailed help.
+
 Version 0.2.0b
-Added three additional solvers.
-Added benchmark which test each solver on miner start and select fastest for each card.
-Added option --solver to manual solver selection.
-Added option --eexit to exit when the miner fails, it will allow you to use a script to automatically restart or perform other actions
-Added option --log logging to a file.
-Minor optimizations of solvers and working loop as a result 1 - 4% speed increase depends on card model.
-Thanks to new solvers now this version must work with old gpus better.
-For more info about new options see help -h for short explanation and examples.
+- Added three additional solvers.
+- Added benchmark which test each solver on miner start and select fastest for each card.
+- Added option --solver to manual solver selection.
+- Added option --eexit to exit when the miner fails, it will allow you to use a script to automatically restart or perform other actions
+- Added option --log logging to a file.
+- Minor optimizations of solvers and working loop as a result 1 - 4% speed increase depends on card model.
+- Thanks to new solvers now this version must work with old gpus better.
+- For more info about new options see help -h for short explanation and examples.
 
 Version 0.1.0b
 Speed increase 2 - 5%
