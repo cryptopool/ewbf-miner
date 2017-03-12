@@ -6,6 +6,15 @@ Miner contain dev fee 2%.
 
 History:
 
+Version 0.3.2b
+Increased speed up to 2%, depends on card model. some cards not give any speed changes.
+Reduced gpu memory usage.
+Improved stability.
+
+Version 0.3.1b
+Increased speed up to 4%, depends on card model. some cards not give any speed changes.
+Minor optimizations.
+
 Version 0.3.0b
 - Integrated nvml (NVIDIA Management Library) for temperature monitoring.
 - Added option --templimit for set max gpu temperature.
